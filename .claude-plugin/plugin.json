@@ -1,0 +1,1 @@
+{ "name": "context-band", "version": "0.1.0", "description": "Barra sopra il prompt con lo spazio usato nella conversazione", "types": "./types/index.d.ts" }
